@@ -9,7 +9,7 @@ const Experience = () => {
       duration: "June 2025 - Present",
       location: "Noida",
       achievements: [
-        "Developed 20+ client websites end-to-end",
+        "Developed 25+ client websites end-to-end",
         "Built SaaS product using React, Redux, Chakra UI",
         "Integrated APIs (OpenAI, Bolt.DIY), payment gateways (Razorpay)",
         "Setup hosting (Vercel, Hostinger), handled domain & deployment"
@@ -33,7 +33,7 @@ const Experience = () => {
   ];
 
   return (
-    <section id="experience" className="py-20 bg-portfolio-dark text-white">
+    <section id="experience" className="py-20  bg-black text-white">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl md:text-5xl font-bold text-center mb-12 font-inter">

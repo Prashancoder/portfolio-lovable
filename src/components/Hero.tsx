@@ -12,7 +12,7 @@ const Hero = () => {
   };
 
   return (
-    <section id="hero" className="min-h-screen flex items-center justify-center bg-portfolio-dark text-white relative overflow-hidden">
+<section id="hero" className="min-h-screen flex items-center justify-center bg-black text-white relative overflow-hidden">
       {/* Background Gradient */}
       <div className="absolute inset-0 bg-gradient-to-br from-portfolio-accent/10 via-transparent to-portfolio-secondary/10"></div>
       
