@@ -45,7 +45,7 @@ const Navigation = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="text-2xl font-bold text-white font-inter">
-            Prashant<span className="text-portfolio-accent">.</span>
+            Prashant<span className="text-portfolio-accent"></span>
           </Link>
 
           {/* Desktop Navigation */}
