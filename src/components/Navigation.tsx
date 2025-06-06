@@ -70,12 +70,12 @@ const Navigation = () => {
           </div>
 
           {/* Mobile Menu Toggle */}
-          <button
+          {/* <button
             className="md:hidden text-white"
             onClick={() => setIsOpen(!isOpen)}
           >
             {isOpen ? <X size={24} /> : <Menu size={24} />}
-          </button>
+          </button> */}
         </div>
 
         {/* Mobile Menu */}
